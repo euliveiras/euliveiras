@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Olá! 
-Eu sou fullstack developer e trabalho com React, NextJS, Node e Express. 
+Eu sou desenvolver e trabalho com as tecnologias React, NextJS, Node e Express. 
