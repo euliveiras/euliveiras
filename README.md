@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **euliveiras/euliveiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá! Eu sou fullstack developer e trabalho com React, NextJS, Node e Express. 
+### Olá! 
+Eu sou fullstack developer e trabalho com React, NextJS, Node e Express. 
