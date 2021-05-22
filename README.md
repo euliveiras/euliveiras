@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Olá! 
-Eu sou desenvolver e trabalho com as tecnologias React, NextJS, Node e Express. 
+Eu sou desenvolver e trabalho com as tecnologias React, Node e Express. 
+
