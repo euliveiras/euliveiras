@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá! 
-Eu sou desenvolver e trabalho com as tecnologias React, Node e Express. 
+# Olá, mundo! 
+Eu sou desenvolver e trabalho com as tecnologias Next, Typescript, Node e Express 🚀. 
+
+
 
