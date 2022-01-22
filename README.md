@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Eu sou desenvolver e tenho utilizado em meus projetos as tecnologias React, Next, Typescript, Node e Express 🚀. Atualmente estou aprofundando meu conhecimento nas ferramentas já mencionadas e aprendendo (e me divertindo muito!) com [deno](https://deno.land/) 🦕.
 
 #### No momento...
-estou a procura de oportunidades de emprego em empresas que utilizem as stacks React e Node 🔎.
+estou a procura de oportunidades de emprego em empresas que utilizem a stack React e Node 🔎.
 
 ![](https://i.imgur.com/HNlouf9.gif)
 
