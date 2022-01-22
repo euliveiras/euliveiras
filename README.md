@@ -19,5 +19,6 @@ Eu sou desenvolver e tenho utilizado em meus projetos as tecnologias React, Next
 #### No momento...
 estou a procura de oportunidades de emprego em empresas que utilizem as stacks React e Node 🔎.
 
+![](https://i.imgur.com/HNlouf9.gif)
 
 
