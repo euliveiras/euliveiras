@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, mundo! 
-Eu sou desenvolver e tenho utilizado em meus projetos as tecnologias React, Next, Typescript, Node e Express 🚀. Atualmente estou aprofundando meu conhecimento nas ferramentas já mencionadas e aprendendo (e me divertindo muito!) com [deno](https://deno.land/) 🦕.
+Eu sou desenvolver e tenho utilizado em meus projetos as tecnologias:
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 #### No momento...
 estou a procura de oportunidades de emprego em empresas que utilizem a stack React e Node 🔎.
 
 ![](https://i.imgur.com/HNlouf9.gif)
+ 
+
 
 
