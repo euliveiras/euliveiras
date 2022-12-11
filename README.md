@@ -22,8 +22,8 @@ Eu sou desenvolver full-stack e tenho utilizado em meus projetos as tecnologias:
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#### No momento...
-estou a procura de oportunidades de emprego em empresas que utilizem a stack React e Node 🔎.
+<!-- #### No momento...
+estou a procura de oportunidades de emprego em empresas que utilizem a stack React e Node 🔎. -->
 
 ![](https://i.imgur.com/HNlouf9.gif)
 
